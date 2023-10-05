@@ -30,9 +30,11 @@ To get started with Errand Pal, follow these steps:
 
 2. **Submit Your List:** Use the app or website to submit your market list, specifying the items you need and any special instructions.
 
-3. **Track Your Order:** You can track the status of your order in real-time, from shopping to delivery.
+3. **Fund your account:** Using the payment options provided by secured payment gateways, you can fund your account with the amount needed to carry out our errand services.
 
-4. **Enjoy Your Errand-Free Time:** Sit back, relax, and let Errand Pal take care of your shopping needs.
+4. **Track Your Order:** You can track the status of your order in real-time, from shopping to delivery.
+
+5. **Enjoy Your Errand-Free Time:** Sit back, relax, and let Errand Pal take care of your shopping needs.
 
 ## Usage
 
