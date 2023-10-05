@@ -67,4 +67,4 @@ Errand Pal is open-source software licensed under the [MIT License](LICENSE).
 
 ---
 
-Powered by [NetBuilders](https://www.netbuilders.com).
+Powered by [NetBuilders](https://www.netbuilders.pro).
